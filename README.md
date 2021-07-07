@@ -3,15 +3,12 @@ Hi, I’m Ivan Siluianov. I am a Unity C# game developer.
 #### My skills
 
 * Unity
-* C#
+* C# [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dot-net.svg' alt='dot-net' height='40'>] [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csharp.svg' alt='csharp' height='40'>]
 * HTML/CSS
 * Basic JS
 
+#### How to reach me
 
-- 🌱 I’m currently learning Unity, C#.
-- 📫 How to reach me: Discord - ivansiluianov#0007 or my mail ivan.siluianov@gmail.com
-
-<!---
-siluianovivan/siluianovivan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* Discord - ivansiluianov#0007
+* Mail - ivan.siluianov@gmail.com
+* 
