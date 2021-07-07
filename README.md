@@ -5,8 +5,6 @@ Hi, I’m Ivan Siluianov. I am a Unity C# game developer.
 
 * Unity
 * C#
-* HTML/CSS
-* Basic JS
 
 #### How to reach me
 
