@@ -16,4 +16,4 @@ Hi, I’m Ivan Siluianov. I am a Unity C# game developer.
 
 * Discord - @ivansiluianov#0007
 * Mail - ivan.siluianov@gmail.com
-* Telegram - @ivan_siluianov
+* Telegram - [@ivan_siluianov](https://t.me/ivan_siluianov)
