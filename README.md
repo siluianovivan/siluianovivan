@@ -1,10 +1,14 @@
 ## Ivan Siluianov
-Hi, I’m Ivan Siluianov. I am a Unity C# game developer.
+Hi, my name is Ivan Siluianov. I am a .NET developer with 2 years experience.
 
 #### My skills
 
-* Unity
 * C#
+* Unity
+* Linux
+* Telegram Bot Developing (On C#)
+* Computer Networks
+* Basic HTML, CSS and JS
 
 #### How to reach me
 
